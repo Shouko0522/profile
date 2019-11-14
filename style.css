@@ -1,0 +1,57 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+/* Colors and fonts */
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #1b2a49;
+  }
+
+h1, h2{
+  font-family: 'PT Sans', sans-serif;
+}
+
+h2 {
+  color: #f45905;
+}
+
+
+.img-frominsta {
+  border-radius: 50%;
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+
+.sns {
+  list-style: none;
+  padding-left: 0px;
+  display: inline;
+}
+
+.sns > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.sns i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.sns i:hover {
+  color: black;
+}
+
+
+
+
